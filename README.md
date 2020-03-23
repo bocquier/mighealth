@@ -1,5 +1,1 @@
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/bocquier/mighealth.git
-git push -u origin master
+My first attempt at this mad Git thing
